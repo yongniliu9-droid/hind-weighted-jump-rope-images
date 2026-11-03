@@ -1,0 +1,3 @@
+LOCAL_READY
+GitHub upload blocked in this environment because no GitHub CLI/API credential is available.
+Target repository: hind-weighted-jump-rope-images (public)
